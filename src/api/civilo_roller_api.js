@@ -2,7 +2,7 @@
 
 import { showAlert } from "../functions/funciones"
 
-export const URL_CIVILO = "http://localhost:8080"
+export const URL_CIVILO = "http://134.122.88.187:8080"
 export const URL_HOME = "http://localhost:3000"
 
 const RUTA_ASIGNACIONES_VENDEDOR = "/requests/sellerRequest" // +`${ID DEL VENDEDOR}`
